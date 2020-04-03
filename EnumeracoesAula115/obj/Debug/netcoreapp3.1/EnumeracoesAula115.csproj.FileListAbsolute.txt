@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\bin\Debug\netcoreapp3.1\EnumeracoesAula115.exe
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\bin\Debug\netcoreapp3.1\EnumeracoesAula115.deps.json
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\bin\Debug\netcoreapp3.1\EnumeracoesAula115.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\bin\Debug\netcoreapp3.1\EnumeracoesAula115.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\bin\Debug\netcoreapp3.1\EnumeracoesAula115.dll
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\bin\Debug\netcoreapp3.1\EnumeracoesAula115.pdb
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\obj\Debug\netcoreapp3.1\EnumeracoesAula115.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\obj\Debug\netcoreapp3.1\EnumeracoesAula115.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\obj\Debug\netcoreapp3.1\EnumeracoesAula115.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\obj\Debug\netcoreapp3.1\EnumeracoesAula115.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\obj\Debug\netcoreapp3.1\EnumeracoesAula115.dll
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\obj\Debug\netcoreapp3.1\EnumeracoesAula115.pdb
+C:\Users\aalima5\Desktop\Code C#\EnumeracoesAula115\EnumeracoesAula115\obj\Debug\netcoreapp3.1\EnumeracoesAula115.genruntimeconfig.cache
